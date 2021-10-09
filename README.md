@@ -5,9 +5,9 @@
 
 #
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-TM&layout=compact&theme=radical" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-TM&layout=compact&theme=radical">
 </a>
-
+ 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Felipe-TM&hide=contribs,prs&theme=radical" />
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=Felipe-TM&hide=contribs,prs&theme=radical">
 </a>
