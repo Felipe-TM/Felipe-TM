@@ -1,6 +1,6 @@
 # Hi, I'm Felipe Torres 🙋‍♂️
 
-<p>I'm currently looking forward to pursue a graduation in computer science🎓<p>
+<p>I'm currently looking forward to pursue an ungraduation in computer science🎓<p>
 
 #
 <a>
